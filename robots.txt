@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://couturefolio.com/sitemap.xml
